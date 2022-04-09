@@ -4,6 +4,7 @@
   "description": "A todo list configured to show the activity to be done today",
   "scripts": {
     "start": "webpack serve --open --config ./web-pack-config/webpack.develop.js",
+    "build" : "webpack --config ./web-pack-config/webpack.prod.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Amarjit Jha",
