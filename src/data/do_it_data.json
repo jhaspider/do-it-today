@@ -1,0 +1,96 @@
+{
+  "monday": [
+    {
+      "time": "8 AM",
+      "items": ["Milk-150ml", "Nuts - 6-7 No."]
+    },
+    {
+      "time": "9:30 AM",
+      "items": ["Milk-150ml", "Nuts - 6-7 No."]
+    }
+  ],
+  "tuesday": [
+    {
+      "time": "8 AM",
+      "items": ["Milk-150ml", "Nuts - 6-7 No."]
+    },
+    {
+      "time": "9:30 AM",
+      "items": ["Milk-150ml", "Nuts - 6-7 No."]
+    },
+    {
+      "time": "9:30 AM",
+      "items": ["Milk-150ml", "Nuts - 6-7 No."]
+    },
+    {
+      "time": "9:30 AM",
+      "items": ["Milk-150ml", "Nuts - 6-7 No."]
+    },
+    {
+      "time": "9:30 AM",
+      "items": ["Milk-150ml", "Nuts - 6-7 No."]
+    },
+    {
+      "time": "9:30 AM",
+      "items": ["Milk-150ml", "Nuts - 6-7 No."]
+    },
+    {
+      "time": "9:30 AM",
+      "items": ["Milk-150ml", "Nuts - 6-7 No."]
+    },
+    {
+      "time": "9:30 AM",
+      "items": ["Milk-150ml", "Nuts - 6-7 No."]
+    }
+  ],
+  "wednesday": [
+    {
+      "time": "8 AM",
+      "items": ["Milk-150ml", "Nuts - 6-7 No."]
+    },
+    {
+      "time": "9:30 AM",
+      "items": ["Milk-150ml", "Nuts - 6-7 No."]
+    }
+  ],
+  "thursday": [
+    {
+      "time": "8 AM",
+      "items": ["Milk-150ml", "Nuts - 6-7 No."]
+    },
+    {
+      "time": "9:30 AM",
+      "items": ["Milk-150ml", "Nuts - 6-7 No."]
+    }
+  ],
+  "friday": [
+    {
+      "time": "8 AM",
+      "items": ["Milk-150ml", "Nuts - 6-7 No."]
+    },
+    {
+      "time": "9:30 AM",
+      "items": ["Milk-150ml", "Nuts - 6-7 No."]
+    }
+  ],
+  "saturday": [
+    {
+      "time": "8 AM",
+      "items": ["Milk-150ml", "Nuts - 6-7 No."]
+    },
+    {
+      "time": "9:30 AM",
+      "items": ["Milk-150ml", "Nuts - 6-7 No."]
+    }
+  ],
+  "sunday": [
+    {
+      "time": "8 AM",
+      "items": ["Milk-150ml", "Nuts - 6-7 No."]
+    },
+    {
+      "time": "9:30 AM",
+      "items": ["Milk-150ml", "Nuts - 6-7 No."]
+    }
+  ]
+}
