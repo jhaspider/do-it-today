@@ -1,5 +1,8 @@
 #!/bin/sh
 
+echo ">>>> Copy manifest"
+cp -R -f ./public/manifest.json ./docs/
+
 echo ">>>> Copy favicons"
 cp -R -f ./public/favicon ./docs/
 
