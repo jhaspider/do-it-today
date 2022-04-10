@@ -18,8 +18,8 @@ VR=$(<./version.txt)
 arrVR=(${VR//=/ })
 OLD_VERSION=${arrVR[1]}
 INCREMENTED_VERSION=$((OLD_VERSION+1))
-sed -i '' "s/js?v=$OLD_VERSION/js?v=$INCREMENTED_VERSION/g" ./docs/index.html
-sed -i '' "s/css?v=$OLD_VERSION/css?v=$INCREMENTED_VERSION/g" ./docs/index.html
+sed -i '' "s/js/js?v=$INCREMENTED_VERSION/g" ./docs/index.html
+sed -i '' "s/css/css?v=$INCREMENTED_VERSION/g" ./docs/index.html
 sed -i '' "s/VERSION=$OLD_VERSION/VERSION=$INCREMENTED_VERSION/g" ./version.txt
 
 echo ">>>> Deploying New Version $INCREMENTED_VERSION"
