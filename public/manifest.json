@@ -39,7 +39,7 @@
     }
   ],
   "background_color": "#ffffff",
-  "display": "standalone",
+  "display": "fullscreen",
   "orientation": "portrait",
   "start_url": "/",
   "scope": "/",
