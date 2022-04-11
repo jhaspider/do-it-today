@@ -36,16 +36,18 @@ const Today = () => {
 
   return (
     <>
-      <div className="p-5">
-        <h1 className="mt-5">Today</h1>
-        <p onClick={pickDay} className="bg-indigo-600 text-white px-5 py-2 w-fit rounded-2xl cursor-pointer">
-          {day.capitalize()}
-        </p>
+      <div className="p-5 flex justify-center items-center">
+        <div className="w-full lg:w-3/6">
+          <h1 className="mt-5">Today</h1>
+          <p onClick={pickDay} className="bg-indigo-600 text-white px-5 py-2 w-fit rounded-2xl cursor-pointer">
+            {day.capitalize()}
+          </p>
 
-        <div className="mt-20 mb-20">
-          {day_data.map((action, ind) => {
-            return <MealOfTheDay action={action} next_meal={next_meal} key={`time-ind-${ind}`} />;
-          })}
+          <div className="mt-20 mb-20">
+            {day_data.map((action, ind) => {
+              return <MealOfTheDay action={action} next_meal={next_meal} key={`time-ind-${ind}`} />;
+            })}
+          </div>
         </div>
       </div>
       {sel_day && <PickDay onSel={onDaySelection} />}

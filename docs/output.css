@@ -558,14 +558,14 @@ Ensure the default browser behavior of the `hidden` attribute.
   height: 100%;
 }
 
+.w-full {
+  width: 100%;
+}
+
 .w-fit {
   width: -webkit-fit-content;
   width: -moz-fit-content;
   width: fit-content;
-}
-
-.w-full {
-  width: 100%;
 }
 
 .w-12 {
@@ -683,4 +683,10 @@ h2 {
 
 p {
   font-size: 1rem;
+}
+
+@media (min-width: 1024px) {
+  .lg\:w-3\/6 {
+    width: 50%;
+  }
 }
