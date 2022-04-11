@@ -18,7 +18,14 @@ const Today = () => {
 
   const day_data = data[day];
   let next_meal = null;
-  if (day === getCurDay()) next_meal = day_data.find((meal) => meal.hr > dt.getHours() && meal.min > dt.getMinutes());
+  if (day === getCurDay())
+    next_meal = day_data.find((meal) => {
+      const h = dt.getHours();
+      const m = dt.getMinutes();
+      if (meal.hr > h) return true;
+      else if (meal.hr >= h && meal.min > m) return true;
+      else return false;
+    });
 
   const onDaySelection = (d) => {
     if (d) setDay(d);
@@ -31,7 +38,7 @@ const Today = () => {
     <>
       <div className="p-5">
         <h1 className="mt-5">Today</h1>
-        <p onClick={pickDay} className="bg-indigo-600 text-white px-5 py-2 w-fit rounded-2xl">
+        <p onClick={pickDay} className="bg-indigo-600 text-white px-5 py-2 w-fit rounded-2xl cursor-pointer">
           {day.capitalize()}
         </p>
 
