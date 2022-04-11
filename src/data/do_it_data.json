@@ -54,7 +54,7 @@
       "time": "11.30 AM - Midmeal",
       "hr": 11,
       "min": 30,
-      "items": ["Fruit - 1 No."]
+      "items": ["Fruit - 1 No.", "Include - Banana"]
     },
     {
       "time": "1.30 PM - Lunch",
@@ -130,7 +130,7 @@
       "time": "11.30 AM - Midmeal",
       "hr": 11,
       "min": 30,
-      "items": ["Fruit - 1 No."]
+      "items": ["Fruit - 1 No.", "Include - Banana"]
     },
     {
       "time": "1.30 PM - Lunch",
@@ -206,7 +206,7 @@
       "time": "11.30 AM - Midmeal",
       "hr": 11,
       "min": 30,
-      "items": ["Fruit - 1 No."]
+      "items": ["Fruit - 1 No.", "Include - Banana"]
     },
     {
       "time": "1.30 PM - Lunch",
