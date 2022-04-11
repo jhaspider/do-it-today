@@ -506,12 +506,32 @@ Ensure the default browser behavior of the `hidden` attribute.
   position: fixed;
 }
 
+.absolute {
+  position: absolute;
+}
+
+.relative {
+  position: relative;
+}
+
 .top-0 {
   top: 0px;
 }
 
 .left-0 {
   left: 0px;
+}
+
+.top-\[-2\] {
+  top: -2;
+}
+
+.top-\[-10\] {
+  top: -10;
+}
+
+.left-5 {
+  left: 1.25rem;
 }
 
 .mt-5 {
@@ -580,6 +600,14 @@ Ensure the default browser behavior of the `hidden` attribute.
   border-radius: 0.5rem;
 }
 
+.rounded-md {
+  border-radius: 0.375rem;
+}
+
+.rounded-sm {
+  border-radius: 0.125rem;
+}
+
 .border-2 {
   border-width: 2px;
 }
@@ -608,6 +636,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   padding: 1.25rem;
 }
 
+.p-10 {
+  padding: 2.5rem;
+}
+
 .p-6 {
   padding: 1.5rem;
 }
@@ -620,6 +652,11 @@ Ensure the default browser behavior of the `hidden` attribute.
 .py-2 {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
+}
+
+.px-4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .text-3xl {
