@@ -48,7 +48,7 @@
       "time": "9:30 AM - Breakfast",
       "hr": 9,
       "min": 30,
-      "items": ["Peas Potato poha - 2 Small cup", "Curd - 1/4 Small cup"]
+      "items": ["Peas Potato poha - 1 Small cup", "Curd - 1/4 Small cup"]
     },
     {
       "time": "11.30 AM - Midmeal",
@@ -72,7 +72,7 @@
       "time": "8:30 PM - Dinner",
       "hr": 20,
       "min": 30,
-      "items": ["Paneer/Egg roll - 1 no"]
+      "items": ["Paneer / Egg roll - 1 no"]
     }
   ],
   "wednesday": [
