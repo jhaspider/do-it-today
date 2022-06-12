@@ -558,14 +558,14 @@ Ensure the default browser behavior of the `hidden` attribute.
   height: 100%;
 }
 
+.w-full {
+  width: 100%;
+}
+
 .w-fit {
   width: -webkit-fit-content;
   width: -moz-fit-content;
   width: fit-content;
-}
-
-.w-full {
-  width: 100%;
 }
 
 .w-12 {
@@ -647,9 +647,19 @@ Ensure the default browser behavior of the `hidden` attribute.
   padding-right: 1rem;
 }
 
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
 .text-3xl {
   font-size: 1.875rem;
   line-height: 2.25rem;
+}
+
+.text-xs {
+  font-size: 0.75rem;
+  line-height: 1rem;
 }
 
 .capitalize {
@@ -686,19 +696,7 @@ p {
 }
 
 @media (min-width: 1024px) {
-  .lg\:w-5\/6 {
-    width: 83.333333%;
-  }
-
-  .lg\:w-4\/6 {
-    width: 66.666667%;
-  }
-
   .lg\:w-3\/6 {
     width: 50%;
-  }
-
-  .lg\:w-2\/6 {
-    width: 33.333333%;
   }
 }

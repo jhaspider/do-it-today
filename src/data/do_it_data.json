@@ -1,34 +1,40 @@
 {
   "monday": [
     {
-      "time": "8.00 AM - Early Morning",
-      "hr": 8,
+      "time": "6:30-45 AM - Early Morning",
+      "hr": 6,
+      "min": 45,
+      "items": ["Milk-150 ml", "Nuts"]
+    },
+    {
+      "time": "7:30 AM - Breakfast",
+      "hr": 7,
+      "min": 30,
+      "items": ["French Toast - 2/3 slices", "Milk - 75 ml"]
+    },
+    {
+      "time": "10:30 AM - Midmeal",
+      "hr": 10,
+      "min": 30,
+      "items": ["Snacks like 150 ml fruit juice with 2 biscuits / 1 egg omlette", "1 S cup stir fry paneer / misti doi / curd / 1 medium banana / mini chapathi roll"]
+    },
+    {
+      "time": "12.00 PM - Lunch",
+      "hr": 12,
       "min": 0,
-      "items": ["Milk-150ml", "Nuts - 6-7 No."]
+      "items": ["Chicken fried rice - 1 S cup", "Curd - 1 Small cup"]
     },
     {
-      "time": "9:30 AM - Breakfast",
-      "hr": 9,
-      "min": 30,
-      "items": ["Butter Toasted Bread - 3 Slices", "Omlette - 1 No."]
+      "time": "3:00 PM - Evening",
+      "hr": 15,
+      "min": 0,
+      "items": ["Cheese Sandwich - 2 Slices"]
     },
     {
-      "time": "11.30 AM - Midmeal",
-      "hr": 11,
+      "time": "5:30 PM - Evening Snacks",
+      "hr": 17,
       "min": 30,
-      "items": ["Fruit - 1 No."]
-    },
-    {
-      "time": "1.30 PM - Lunch",
-      "hr": 13,
-      "min": 30,
-      "items": ["Rice - 1 Small Cup", "Dhal - 1/4 Small cup", "Bhendi Fry - 3 Tbsp", "Ghee - 1 Tsp"]
-    },
-    {
-      "time": "4:30 PM - Evening",
-      "hr": 16,
-      "min": 30,
-      "items": ["Chocos - 1 Large cup", "Milk - 50ml"]
+      "items": ["Fruit with milk"]
     },
     {
       "time": "8:30 PM - Dinner",
@@ -39,230 +45,267 @@
   ],
   "tuesday": [
     {
-      "time": "8.00 AM - Early Morning",
-      "hr": 8,
+      "time": "6:30-45 AM - Early Morning",
+      "hr": 6,
+      "min": 45,
+      "items": ["Milk-150 ml", "Nuts"]
+    },
+    {
+      "time": "7:30 AM - Breakfast",
+      "hr": 7,
+      "min": 30,
+      "items": ["Toast with Jam - 2/3 slices"]
+    },
+    {
+      "time": "10:30 AM - Midmeal",
+      "hr": 10,
+      "min": 30,
+      "items": ["Snacks like 150 ml fruit juice with 2 biscuits / 1 egg omlette", "1 S cup stir fry paneer / misti doi / curd / 1 medium banana / mini chapathi roll"]
+    },
+    {
+      "time": "12.00 PM - Lunch",
+      "hr": 12,
       "min": 0,
-      "items": ["Milk-150ml", "Nuts - 6-7 No."]
+      "items": ["Peas flavoured rice - 1 S cup", "Curd - 1 Small cup"]
     },
     {
-      "time": "9:30 AM - Breakfast",
-      "hr": 9,
-      "min": 30,
-      "items": ["Peas Potato poha - 1 Small cup", "Curd - 1/4 Small cup"]
+      "time": "3:00 PM - Evening",
+      "hr": 15,
+      "min": 0,
+      "items": ["Rice Kheer / Halwa - 1/2 S cup", "Chocos - 1/2 S cup"]
     },
     {
-      "time": "11.30 AM - Midmeal",
-      "hr": 11,
+      "time": "5:30 PM - Evening Snacks",
+      "hr": 17,
       "min": 30,
-      "items": ["Fruit - 1 No.", "Include - Banana"]
-    },
-    {
-      "time": "1.30 PM - Lunch",
-      "hr": 13,
-      "min": 30,
-      "items": ["Rice - 1 Small Cup", "Rajma curry - 1/2 S cup", "Potato - 3 tbsp", "Ghee-1 tsp"]
-    },
-    {
-      "time": "4:30 PM - Evening",
-      "hr": 16,
-      "min": 30,
-      "items": ["Podi egg Dosa - 1 No."]
+      "items": ["Fruit with milk"]
     },
     {
       "time": "8:30 PM - Dinner",
       "hr": 20,
       "min": 30,
-      "items": ["Paneer / Egg roll - 1 no"]
+      "items": ["Paneer/Egg roll - 1 No."]
     }
   ],
   "wednesday": [
     {
-      "time": "8.00 AM - Early Morning",
-      "hr": 8,
+      "time": "6:30-45 AM - Early Morning",
+      "hr": 6,
+      "min": 45,
+      "items": ["Milk-150 ml", "Nuts"]
+    },
+    {
+      "time": "7:30 AM - Breakfast",
+      "hr": 7,
+      "min": 30,
+      "items": ["Toast - Egg - 2/3 Slices"]
+    },
+    {
+      "time": "10:30 AM - Midmeal",
+      "hr": 10,
+      "min": 30,
+      "items": ["Snacks like 150 ml fruit juice with 2 biscuits / 1 egg omlette", "1 S cup stir fry paneer / misti doi / curd / 1 medium banana / mini chapathi roll"]
+    },
+    {
+      "time": "12.00 PM - Lunch",
+      "hr": 12,
       "min": 0,
-      "items": ["Milk-150ml", "Nuts - 6-7 No."]
+      "items": ["Palak stir fried rice - 1 S cup", "Chicken Breast / Nugget - 1 Small"]
     },
     {
-      "time": "9:30 AM - Breakfast",
-      "hr": 9,
-      "min": 30,
-      "items": ["Dosa - 2 No.", "Chutney - 2 Tbsp", "Egg - 1 No."]
+      "time": "3:00 PM - Evening",
+      "hr": 15,
+      "min": 0,
+      "items": ["Podi Eg Dosa - 1 No."]
     },
     {
-      "time": "11.30 AM - Midmeal",
-      "hr": 11,
+      "time": "5:30 PM - Evening Snacks",
+      "hr": 17,
       "min": 30,
-      "items": ["Fruit - 1 No."]
-    },
-    {
-      "time": "1.30 PM - Lunch",
-      "hr": 13,
-      "min": 30,
-      "items": ["Rice - 1 Small Cup", "Greens curry - 1/2 Small cup", "Chicken nuggets - 3 no.", "Ghee - 1 tsp"]
-    },
-    {
-      "time": "4:30 PM - Evening",
-      "hr": 16,
-      "min": 30,
-      "items": ["Cheese Sandwidh - 2 slices"]
+      "items": ["Fruit with milk"]
     },
     {
       "time": "8:30 PM - Dinner",
       "hr": 20,
       "min": 30,
-      "items": ["Chapathi - 2 small", "Sabji - 3tbsp"]
+      "items": ["Chapati - 2 small", "Sabji - 3 tbsp"]
     }
   ],
   "thursday": [
     {
-      "time": "8.00 AM - Early Morning",
-      "hr": 8,
+      "time": "6:30-45 AM - Early Morning",
+      "hr": 6,
+      "min": 45,
+      "items": ["Milk-150 ml", "Nuts"]
+    },
+    {
+      "time": "7:30 AM - Breakfast",
+      "hr": 7,
+      "min": 30,
+      "items": ["Open toast with potato - 2/3 slices"]
+    },
+    {
+      "time": "10:30 AM - Midmeal",
+      "hr": 10,
+      "min": 30,
+      "items": ["Snacks like 150 ml fruit juice with 2 biscuits / 1 egg omlette", "1 S cup stir fry paneer / misti doi / curd / 1 medium banana / mini chapathi roll"]
+    },
+    {
+      "time": "12.00 PM - Lunch",
+      "hr": 12,
       "min": 0,
-      "items": ["Milk-150ml", "Nuts - 6-7 No."]
+      "items": ["Egg Veg fried rice - 1 S cup"]
     },
     {
-      "time": "9:30 AM - Breakfast",
-      "hr": 9,
-      "min": 30,
-      "items": ["Chapati - 2 small", "Paneer Bhurji - 1/4 Small cup"]
+      "time": "3:00 PM - Evening",
+      "hr": 15,
+      "min": 0,
+      "items": ["Chicken Nugget - 3/4 Pieces"]
     },
     {
-      "time": "11.30 AM - Midmeal",
-      "hr": 11,
+      "time": "5:30 PM - Evening Snacks",
+      "hr": 17,
       "min": 30,
-      "items": ["Fruit - 1 No.", "Include - Banana"]
-    },
-    {
-      "time": "1.30 PM - Lunch",
-      "hr": 13,
-      "min": 30,
-      "items": ["Rice - 1 Small Cup", "Mix Veg curry - 1/2 Small cup", "Soya bhurjee - 3 tbsp", "Ghee-1 tsp"]
-    },
-    {
-      "time": "4:30 PM - Evening",
-      "hr": 16,
-      "min": 30,
-      "items": ["Rice Kheer / Halwa - 1/2 Small cup"]
+      "items": ["Fruit with milk"]
     },
     {
       "time": "8:30 PM - Dinner",
       "hr": 20,
       "min": 30,
-      "items": ["Chapathi - 2 small", "Sabji - 3 Tbsp"]
+      "items": ["Chapati - 2 small", "Sabji - 3 tbsp"]
     }
   ],
   "friday": [
     {
-      "time": "8.00 AM - Early Morning",
-      "hr": 8,
-      "min": 0,
-      "items": ["Milk-150ml", "Nuts - 6-7 No."]
+      "time": "6:30-45 AM - Early Morning",
+      "hr": 6,
+      "min": 45,
+      "items": ["Milk-150 ml", "Nuts"]
     },
     {
-      "time": "9:30 AM - Breakfast",
-      "hr": 9,
+      "time": "7:30 AM - Breakfast",
+      "hr": 7,
       "min": 30,
       "items": ["Egg noodles - 1 S cup"]
     },
     {
-      "time": "11.30 AM - Midmeal",
-      "hr": 11,
+      "time": "10:30 AM - Midmeal",
+      "hr": 10,
       "min": 30,
-      "items": ["Fruit - 1 No."]
+      "items": ["Snacks like 150 ml fruit juice with 2 biscuits / 1 egg omlette", "1 S cup stir fry paneer / misti doi / curd / 1 medium banana / mini chapathi roll"]
     },
     {
-      "time": "1.30 PM - Lunch",
-      "hr": 13,
-      "min": 30,
-      "items": ["Jeera rice - 1 Small Cup", "Dhal - 1/4 Small cup", "Potato Fry - 3 Tbsp", "Ghee - 1 tsp"]
+      "time": "12.00 PM - Lunch",
+      "hr": 12,
+      "min": 0,
+      "items": ["Palak Khichidi - 1 s cup"]
     },
     {
-      "time": "4:30 PM - Evening",
-      "hr": 16,
+      "time": "3:00 PM - Evening",
+      "hr": 15,
+      "min": 0,
+      "items": ["Outside snack"],
+      "note": "Pizza / Cake / Burger / Patties / Taco / Bao etc"
+    },
+    {
+      "time": "5:30 PM - Evening Snacks",
+      "hr": 17,
       "min": 30,
-      "items": ["Butter/Jam Sandwich - 2 Slices"]
+      "items": ["Fruit with milk"]
     },
     {
       "time": "8:30 PM - Dinner",
       "hr": 20,
       "min": 30,
-      "items": ["Potato Capsicum roll - 1 No."]
+      "items": ["Potato capcicum roll - 1 no."]
     }
   ],
   "saturday": [
     {
-      "time": "8.00 AM - Early Morning",
+      "time": "7:30-45 AM - Early Morning",
+      "hr": 7,
+      "min": 45,
+      "items": ["Milk-150 ml", "Nuts"]
+    },
+    {
+      "time": "8:30 AM - Breakfast",
       "hr": 8,
-      "min": 0,
-      "items": ["Milk-150ml", "Nuts - 6-7 No."]
-    },
-    {
-      "time": "9:30 AM - Breakfast",
-      "hr": 9,
       "min": 30,
-      "items": ["Uppma / Dhalia - 1 Small cup", "Curd - 1/2 S cup"]
+      "items": ["Upma/Dhalia - 1 S cup", "Curd - 1/2 S cup"]
     },
     {
-      "time": "11.30 AM - Midmeal",
+      "time": "11:30 AM - Midmeal",
       "hr": 11,
       "min": 30,
-      "items": ["Fruit - 1 No.", "Include - Banana"]
+      "items": ["Snacks like 150 ml fruit juice with 2 biscuits / 1 egg omlette", "1 S cup stir fry paneer / misti doi / curd / 1 medium banana / mini chapathi roll"]
     },
     {
-      "time": "1.30 PM - Lunch",
-      "hr": 13,
-      "min": 30,
-      "items": ["Rice - 1 Small Cup", "Moong Dhal - 1/4 Small cup", "Vegetable - 3 Tbsp", "Ghee - 1 tsp"]
+      "time": "1.00 PM - Lunch",
+      "hr": 1,
+      "min": 0,
+      "items": ["Rice - 1 Small cup", "Moong Dhal - 1/2 Small cup", "Veggies - 3 Tbsp", "Ghee"]
     },
     {
-      "time": "4:30 PM - Evening",
+      "time": "4:00 PM - Evening",
       "hr": 16,
-      "min": 30,
+      "min": 0,
       "items": ["Curd Vada - 1 No."]
     },
     {
-      "time": "8:30 PM - Dinner",
-      "hr": 20,
+      "time": "6:30 PM - Evening Snacks",
+      "hr": 18,
       "min": 30,
-      "items": ["Aloo Paratha - 1 No.", "Curd - 1/2 Small cup"]
+      "items": ["Fruit with milk"]
+    },
+    {
+      "time": "9:30 PM - Dinner",
+      "hr": 9,
+      "min": 30,
+      "items": ["Aloo Paratha - 1 No.", "Curd - 1/2 S cup"]
     }
   ],
   "sunday": [
     {
-      "time": "8.00 AM - Early Morning",
+      "time": "7:30-45 AM - Early Morning",
+      "hr": 7,
+      "min": 45,
+      "items": ["Milk-150 ml", "Nuts"]
+    },
+    {
+      "time": "8:30 AM - Breakfast",
       "hr": 8,
-      "min": 0,
-      "items": ["Milk-150ml", "Nuts - 6-7 No."]
-    },
-    {
-      "time": "9:30 AM - Breakfast",
-      "hr": 9,
       "min": 30,
-      "items": ["Besan Cheela - 2 No.", "Tomato Chutney - 3 tbsp", "Egg - 1 No."]
+      "items": ["Peas/Potato Poha - 1 S cup", "Curd - 1/4 S cup"]
     },
     {
-      "time": "11.30 AM - Midmeal",
+      "time": "11:30 AM - Midmeal",
       "hr": 11,
       "min": 30,
-      "items": ["Fruit - 1 No."]
+      "items": ["Snacks like 150 ml fruit juice with 2 biscuits / 1 egg omlette", "1 S cup stir fry paneer / misti doi / curd / 1 medium banana / mini chapathi roll"]
     },
     {
-      "time": "1.30 PM - Lunch",
-      "hr": 13,
-      "min": 30,
-      "items": ["Palak Khichidi - 1 Small cup", "Curd - 1 Small cup"]
+      "time": "1.00 PM - Lunch",
+      "hr": 1,
+      "min": 0,
+      "items": ["Jeera Rice - 1 Small cup", "Dhal - 1 Small cup", "Stir fry veggies - 3 Tbsp", "Ghee"]
     },
     {
-      "time": "4:30 PM - Evening",
+      "time": "4:00 PM - Evening",
       "hr": 16,
-      "min": 30,
-      "items": ["Jelly with icecream - 1 Small cup"]
+      "min": 0,
+      "items": ["Dessert of his choice"]
     },
     {
-      "time": "8:30 PM - Dinner",
-      "hr": 20,
+      "time": "6:30 PM - Evening Snacks",
+      "hr": 18,
       "min": 30,
-      "items": ["Ghee laccha paratha - 2 small", "Stir fry brinjal - 2 Tbsp"]
+      "items": ["Fruit with suplement milk / Milk Shake"]
+    },
+    {
+      "time": "9:30 PM - Dinner",
+      "hr": 9,
+      "min": 30,
+      "items": ["Ghee Laccha Paratha - 2 Small", "Stir fry brinjal - 3 Tbsp"]
     }
   ]
 }
